@@ -7,4 +7,5 @@
 	<li><a href=cremaCatalana.php>Crema catalana</a>
 	<li><a href=cremaCatalanaMicro.php>Crema catalana (microones)</a>
 	<li><a href=pastisFormatge.php>Pastís de formatge</a>
+	<li><a href=brunyolsThermo.php>Brunyols (thermomix)</a>
 </ul>

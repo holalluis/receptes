@@ -5,13 +5,13 @@
 		<meta name=viewport content="width=device-width, initial-scale=1.0">
 		<title>Receptes</title>
 		<style>
-			body {
+			body{
 				max-width:50em;
-				padding:1em .5em;
+				padding:1em 0.5em;
 				margin:0 auto;
 				background:#fdfdfa;
 			}
-			a {
+			a{
 				color:#00b7c6;
 			}
 		</style>
@@ -19,6 +19,6 @@
 <body>
 
 <h2>
+	<a href=index.php style="color:black;text-decoration:none">Les receptes de la iaia Roser</a>
 	<span>&#128117;</span> 
-	<a href=index.php style=color:black>Les receptes de la iaia Roser</a>
 </h2>
