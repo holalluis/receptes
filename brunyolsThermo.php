@@ -1,5 +1,4 @@
 <?php include'navbar.php'?>
-
 <h3>BRUNYOLS / thermomix</h3>
 
 <div>INGREDIENTS per a uns 50 brunyols</div>
@@ -36,5 +35,6 @@
 				i els traurem quan adquireixin un color daurat fosc.
 			<li>Ensucrem mentre siguin calents.
 		</ul>
+	</li>
 </ul>
 
