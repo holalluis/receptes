@@ -18,7 +18,6 @@
 				background:#00b7c6;
 				padding:10px;
 				text-shadow: 0 1px 0 #ccc;
-				box-shadow:inset 0 2px 4px rgba(0,0,0,.15),0 1px 2px rgba(0,0,0,.05);
 			}
 		</style>
 	</head>
