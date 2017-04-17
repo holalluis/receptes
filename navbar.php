@@ -30,4 +30,3 @@
 		Les receptes de la iaia Roser</a>
 	<span>&#128117;</span> 
 </h2>
-

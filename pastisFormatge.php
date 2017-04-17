@@ -1,4 +1,3 @@
-
 <?php include'navbar.php'?>
 
 <h3>Pastís de formatge de la Marissa</h3>

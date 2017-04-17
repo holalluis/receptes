@@ -1,4 +1,3 @@
-
 <?php include'navbar.php'?>
 
 <h3>Crema catalana (microones)</h3>
