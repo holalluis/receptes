@@ -12,9 +12,10 @@
 	<li>Instruccions: 
 		<ul>
 			<li>Desfer la xocolata i la mantega al microones.
-			<li>Barrejar la xocolata i la mantega calentes, i afegir el sucre, ous i farina.
-			<li>Afegir un polsim de canyella.
-			<li>Posar en una safata untada amb oli o mantega.
+			<li>Barrejar la xocolata i la mantega calentes
+			<li>Afegir el sucre, ous, farina i un polsim de canyella.
+			<li>Remenar fins que quedi ben barrejat.
+			<li>Posar la barreja en una safata untada amb oli o mantega.
 			<li>Posar al forn (150ºC, 30 min).
 		</ul>
 	</li>
