@@ -17,3 +17,10 @@
   <li>Agrega glaçons i troceja <b>10 segons, velocitat 10</b>.
   <li>Servir immediatament.
 </ol>
+
+<h4>Info</h4>
+<ul>
+  <li>Preparació: 5 min
+  <li>Dificultat: baixa
+  <li>Racions: 6 vasos (200 ml)
+</ul>
