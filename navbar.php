@@ -6,9 +6,9 @@
 		<title>Receptes</title>
 		<style>
 			body{
-				max-width:50em;
 				margin:0 auto;
 				background:#fdfdfa;
+        max-width:80ch;
 			}
 			a{
 				color:#00b7c6;
@@ -27,5 +27,5 @@
 <h2>
 	<a href=index.php style="color:black;text-decoration:none">
 		Les receptes de la iaia Roser</a>
-	<span>&#128117;</span> 
+	<span>&#128117;</span>
 </h2>
