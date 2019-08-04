@@ -16,8 +16,9 @@
 			h2{
 				margin:0;
 				background:#00b7c6;
-				padding:10px;
+				background:linear-gradient(#50f7f6,#00b7c6);
 				text-shadow: 0 1px 0 #ccc;
+				padding:10px;
 			}
 		</style>
 	</head>
