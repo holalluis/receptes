@@ -7,6 +7,7 @@
   <li>Ós pelat de vedella
   <li>Carcassa de pollastre (i si en tens, coll)
   <li>Ós d'espinada (de tocino)
+  <li>Peu de porc
 
   <li>Col
   <li>Ceba
