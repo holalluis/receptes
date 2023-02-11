@@ -1,6 +1,7 @@
 <?php include'navbar.php'?>
 <h3>Escudella i carn d'olla</h3>
-<div>Per 4 persones. Posar a bullir:</div>
+<div>Per 4 persones</div>
+
 <ul>
   <li>
     Posar en una olla a bullir:
@@ -22,8 +23,8 @@
       <li>Butifarra negra (si t'hi agrada)
     </ul>
   </li>
-
-  <li>Per fer la pilota, barrejar en un plat fondo:
+  <li>
+    Per fer la pilota, barrejar en un plat fondo:
     <ul>
       <li>Carn picada
       <li>Pa sec
@@ -32,7 +33,6 @@
     </ul>
     Donar-li la forma de pilota, enfarinar i posar dins l'olla.
   </li>
-
   <li>
     Colar el caldo, i posar-hi arròs i fideus (una tassa d'arròs i 2 de fideus)
     durant uns 15-20 minuts
