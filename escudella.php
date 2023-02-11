@@ -1,6 +1,6 @@
 <?php include'navbar.php'?>
 <h3>Escudella i carn d'olla</h3>
-<div>Posar a bullir:</div>
+<div>Per 4 persones. Posar a bullir:</div>
 <ul>
   <li>Conill de vedella
   <li>Ós pelat de vedella
@@ -8,10 +8,10 @@
   <li>Ós d'espinada (de tocino)
   <li>Peu de porc
 
-  <li>Col
-  <li>Ceba
-  <li>Api
-  <li>Porro
+  <li>Col (una meitat o una quarta part)
+  <li>Una ceba
+  <li>Api (2 troncs de fulla)
+  <li>Un porro
 
   <li>Pastanaga
   <li>Moniato (opcional)
@@ -30,4 +30,6 @@
     </ul>
     Donar-li la forma de pilota, enfarinar i posar dins l'olla.
   </li>
+
+  <li>Colar el caldo, i fer arròs i fideus a part (una tassa d'arròs i 2 de fideus)
 </ul>
