@@ -20,7 +20,7 @@
       <li>Nap (opcional)
       <li>Mongetes del ganxet i/o cigrons (opcional)
       <li>4 patates pelades (posar al final perquè no es desfacin)
-      <li>Butifarra negra (si t'hi agrada)
+      <li>Butifarra negra (opcional)
     </ul>
   </li>
   <li>
