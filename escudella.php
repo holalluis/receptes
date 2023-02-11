@@ -4,11 +4,20 @@
 
 <ul>
   <li>Conill de vedella
-  <li>Pollastre (coll de pollastre)
+  <li>Ós pelat de vedella
+  <li>Carcassa de pollastre (i si en tens, coll)
+  <li>Ós d'espinada (de tocino)
+
   <li>Col
   <li>Ceba
   <li>Api
+  <li>Porro
+
   <li>Pastanaga
+  <li>Moniato (opcional)
+  <li>Nap (opcional)
+  <li>Mongetes del ganxet i/o cigrons (opcional)
+
   <li>Patata (posar al final perquè no es desfaci)
 
   <li>Per fer la pilota, barrejar en un plat fondo:
@@ -18,6 +27,6 @@
       <li>Ou
       <li>All
     </ul>
-    I posar dins l'olla.
+    Donar-li la forma de pilota i posar dins l'olla.
   </li>
 </ul>
