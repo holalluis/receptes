@@ -19,6 +19,7 @@
   <li>Mongetes del ganxet i/o cigrons (opcional)
 
   <li>Patata (posar al final perquè no es desfaci)
+  <li>Butifarra negra (si t'hi agrada)
 
   <li>Per fer la pilota, barrejar en un plat fondo:
     <ul>
