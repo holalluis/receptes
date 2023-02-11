@@ -10,16 +10,16 @@
       <li>Ós pelat de vedella
       <li>Carcassa de pollastre (i si en tens, coll i pedrer)
       <li>Ós d'espinada (de tocino)
-      <li>Peu de porc
+      <li>Peu de porc (opcional)
       <li>Col (una meitat o una quarta part)
       <li>Una ceba
       <li>Api (2 troncs de fulla)
       <li>Un porro
-      <li>Pastanaga
+      <li>4 pastanagues senceres
       <li>Moniato (opcional)
       <li>Nap (opcional)
       <li>Mongetes del ganxet i/o cigrons (opcional)
-      <li>Patata (posar al final perquè no es desfaci)
+      <li>4 patates pelades (posar al final perquè no es desfacin)
       <li>Butifarra negra (si t'hi agrada)
     </ul>
   </li>
