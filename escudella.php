@@ -1,11 +1,10 @@
 <?php include'navbar.php'?>
 <h3>Escudella i carn d'olla</h3>
 <div>Posar a bullir:</div>
-
 <ul>
   <li>Conill de vedella
   <li>Ós pelat de vedella
-  <li>Carcassa de pollastre (i si en tens, coll)
+  <li>Carcassa de pollastre (i si en tens, coll i pedrer)
   <li>Ós d'espinada (de tocino)
   <li>Peu de porc
 
@@ -28,6 +27,6 @@
       <li>Ou
       <li>All
     </ul>
-    Donar-li la forma de pilota i posar dins l'olla.
+    Donar-li la forma de pilota, enfarinar i posar dins l'olla.
   </li>
 </ul>
